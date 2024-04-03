@@ -24,4 +24,7 @@ Oscar Perez
 ## Acknowledgments
 This project was part of Codecademy Data Science: Analytics Professional Certificate, only the data was provided by Codecademy, the Jupyter notebook and code were all developed by the author.
 
+## license
+This is an open source project, no license is required.
+
 This README provides a clear and concise overview of the project, and It also includes licensing and acknowledgment sections, which are important for open-source projects.
